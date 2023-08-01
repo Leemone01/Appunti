@@ -1,6 +1,6 @@
 # Appunti
 
-Repository con alcuni dei miei appunti 
+Repository con alcuni dei miei appunti.
 
 Se volete offrirmi un caffè:
 
